@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NoteTracker</string>
+    <string name="title">Enter Title</string>
+    <string name="description">Enter Description</string>
+    <string name="question">are you sure?</string>
+</resources>
